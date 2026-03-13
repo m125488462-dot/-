@@ -1,0 +1,5 @@
+{
+  "name": "GlobalImage Adapter AI",
+  "description": "An intelligent tool to resize images and translate text into multiple languages using Gemini 2.5 Flash Image. Features layout adaptation, text refinement, and bulk downloads.",
+  "requestFramePermissions": []
+}
